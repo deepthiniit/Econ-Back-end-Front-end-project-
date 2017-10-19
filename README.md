@@ -1,0 +1,2 @@
+# Econ-Back-end-Front-end-project-
+My first Project based on ecommerce portal contains four main modules out of which the first module containshttps://github.com/deepthiniit/Ecommerce-portal-project.git "EconBackEnd project with two submodules such as Category,Supplier,Product"C:\Users\Rachitha\workspace\Ecommodule. Ina similar way have also created "Econ Front End Module with three sub modules such as category supplier product" 
